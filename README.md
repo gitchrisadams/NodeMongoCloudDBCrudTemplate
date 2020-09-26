@@ -1,7 +1,7 @@
 # Purpose
 
-Display form to enter ship sinks, pirate kills, and loot turned in.
-Also display site that displays the states to use w/ OBS.
+A simple form that takes in input and displays the data from a mongo database in the cloud.
+Demonstrates (CRUD) operations of Create, Read, Update, and Delete.
 
 # Guide/Docs:
 
